@@ -1,0 +1,10 @@
+{
+    "collection": "Test",
+    "image": [{
+        "id": 1,
+        "url": "https://openai-labs-public-images-prod.azureedge.net/user-isG8HIXaH6lL91SDA8hNMCeL/prompts/prompt-k5p5D2fbkrpvyg7rUsdoiild/image.png"
+    }, {
+        "id": 2,
+        "url": "https://openai-labs-public-images-prod.azureedge.net/user-isG8HIXaH6lL91SDA8hNMCeL/prompts/prompt-k5p5D2fbkrpvyg7rUsdoiild/image.png"
+    }]
+}
